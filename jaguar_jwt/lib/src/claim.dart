@@ -488,7 +488,6 @@ class JwtClaim {
   static const List<String> registeredClaimNames = const [
     'iss',
     'sub',
-    'aud',
     'exp',
     'nbf',
     'iat',
